@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@web/dev-server": "^0.1.30",
+    "lit": "^2.2.1"
+  }
+}
